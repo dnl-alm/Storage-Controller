@@ -59,7 +59,6 @@ br.com.storage_controller
   ├── repository/     → Comunicação com o banco de dados
   ├── entity/         → Entidades JPA (tabelas do banco)
   ├── dto/            → Transferência de dados (entrada e saída)
-  ├── assembler/      → Adição de links HATEOAS às respostas
   └── exception/      → Tratamento centralizado de exceções
 ```
 
