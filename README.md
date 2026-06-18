@@ -33,17 +33,17 @@ O projeto foi desenvolvido com foco em boas práticas de arquitetura REST, separ
 
 ## Tecnologias
 
-| Tecnologia | Uso |
-|---|---|
-| Java 21 | Linguagem principal |
-| Spring Boot 3.x | Framework da aplicação |
-| Spring Data JPA | Abstração de acesso ao banco |
-| Hibernate | Provedor JPA / ORM |
-| Oracle Database | Banco de dados relacional |
-| Spring HATEOAS | Links de navegação nas respostas |
+| Tecnologia        | Uso |
+|-------------------|---|
+| Java 21           | Linguagem principal |
+| Spring Boot 3.x   | Framework da aplicação |
+| Spring Data JPA   | Abstração de acesso ao banco |
+| Hibernate         | Provedor JPA / ORM |
+| H2 Database        | Banco de dados relacional |
+| Spring HATEOAS    | Links de navegação nas respostas |
 | Springdoc OpenAPI | Documentação Swagger |
-| Lombok | Redução de boilerplate |
-| Maven | Gerenciamento de dependências |
+| Lombok            | Redução de boilerplate |
+| Maven             | Gerenciamento de dependências |
 
 ---
 
